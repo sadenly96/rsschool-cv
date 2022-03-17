@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url('./assets/Fonts/PlayfairDisplay-Regular.ttf');
+}
+* {
+    font-family: 'PlayfairDisplay';
+}
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 20px;
+    list-style: none;
+}
